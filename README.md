@@ -113,6 +113,12 @@ Download: wget- https://github.com/prometheus/node_exporter/releases/download/v1
 Unzip:  tar -xvf <folder name>
 Install: ./<name of executable file> &             (& makes it runs in the background)
 Node exporter runs default on 9100 port
+
+# Node exporter : The Node Exporter is an agent that gathers system metrics and exposes them in a format which can be ingested by Prometheus. The Node Exporter is a project that is maintained through the Prometheus project.
+
+# Blackbox: The Blackbox Exporter in Prometheus is a tool that monitors external systems and services by probing them with protocols like HTTP, HTTPS, ICMP, DNS, and TCP
+
+
  
 
 
